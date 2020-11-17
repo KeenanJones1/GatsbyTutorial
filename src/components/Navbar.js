@@ -17,6 +17,9 @@ export default function Navbar() {
     <li> 
      <Link to='/examples/'>examples</Link>
     </li>
+    <li> 
+     <Link to='/images/'>Images</Link>
+    </li>
    </ul>
   </nav>
  )
